@@ -35,6 +35,10 @@ or
 npm install
 ```
 
+```bash
+expo start
+```
+
 
 
 ## Installation if you want in your node module and usage
