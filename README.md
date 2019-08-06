@@ -1,8 +1,6 @@
 # React-Native-Animated-Bottom-Navigation-Awesome
 just navbar
 
-
-# react-navigation-custom-bottom-tab-component
 ReactNavigation - TabBarComponent with custom animation
 
 Providing few solution for Bottom Navigation.
@@ -34,6 +32,8 @@ or
 ```bash
 npm install
 ```
+
+And start the expo
 
 ```bash
 expo start
